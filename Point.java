@@ -131,9 +131,9 @@ public class Point implements Comparable<Point> {
         // Point q = new Point(4, 4);
         // Point r = new Point(1, 4);
         // System.out.println(p.slopeOrder().compare(q, r));
-        Double[] aa = new Double[3];
-        for (Double v : aa) {
-            System.out.println(v);
-        }
+        // Double[] aa = new Double[3];
+        // for (Double v : aa) {
+        //     System.out.println(v);
+        // }
     }
 }
